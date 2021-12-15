@@ -1,3 +1,3 @@
-•ItisaHardwareProjectbuildinvolvingvotingthroughfingerprintscanningtoovercometheproblemsofanordinaryvotingmachineandalsoatthesametimemakingmoresecuredonewithcurrentrealresultgiventothevoter.
-•TechStack: EmbeddedC
-•Tools:ArduinoUNO,FingerprintModule
+It is a Hardware Project build involving voting through fingerprint scanning to overcome the problems of an ordinary voting machine and also at the same time making secured one with current real result given to the voter.
+TechStack used: Embedded C
+Tools :Arduino UNO, Finger print Module
